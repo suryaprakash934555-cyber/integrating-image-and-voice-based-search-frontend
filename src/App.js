@@ -11,7 +11,7 @@ import Register from './Login/Register'
 import { CartProvider } from './context/CartContext'
 import CartSidebar from './components/CartSidebar'
 import Checkout from './pages/Checkout'
-import PaymentPage from './pages/PaymentPage'
+// import PaymentPage from './pages/PaymentPage'
 
 function App() {
   return (
@@ -28,7 +28,7 @@ function App() {
             <Route path='/login' element={<Login/>} />
             <Route path="/register" element={<Register />} />
             <Route path="/checkout" element={<Checkout />} />
-            <Route path="/payment" element={<PaymentPage />} />
+            {/* <Route path="/payment" element={<PaymentPage />} /> */}
           </Routes>
           <CartSidebar />
         </div>
