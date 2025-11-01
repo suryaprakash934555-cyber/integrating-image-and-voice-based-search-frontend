@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/suryaprakash934555-cyber/integrating-image-and-voice-based-search-frontend/static/css/main.0c6e9ca0.css",
+    "main.js": "/suryaprakash934555-cyber/integrating-image-and-voice-based-search-frontend/static/js/main.2a58198e.js",
+    "static/media/img1.png": "/suryaprakash934555-cyber/integrating-image-and-voice-based-search-frontend/static/media/img1.911f757cb405bbd9a6ed.png",
+    "static/media/img6.png": "/suryaprakash934555-cyber/integrating-image-and-voice-based-search-frontend/static/media/img6.fdf85c8e64b7a0be96f6.png",
+    "static/media/img7.png": "/suryaprakash934555-cyber/integrating-image-and-voice-based-search-frontend/static/media/img7.2d833e96c3f44e94e3cf.png",
+    "static/media/img4.png": "/suryaprakash934555-cyber/integrating-image-and-voice-based-search-frontend/static/media/img4.40b886607e14a9231ca8.png",
+    "static/media/img3.png": "/suryaprakash934555-cyber/integrating-image-and-voice-based-search-frontend/static/media/img3.6cca6cd51c351d741b45.png",
+    "static/media/img2.png": "/suryaprakash934555-cyber/integrating-image-and-voice-based-search-frontend/static/media/img2.570c117ca15bab0d965b.png",
+    "static/media/img5.png": "/suryaprakash934555-cyber/integrating-image-and-voice-based-search-frontend/static/media/img5.d85f8b9f1fecefb7bb9a.png",
+    "static/media/bootstrap-icons.woff?": "/suryaprakash934555-cyber/integrating-image-and-voice-based-search-frontend/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/suryaprakash934555-cyber/integrating-image-and-voice-based-search-frontend/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "static/media/logo.png": "/suryaprakash934555-cyber/integrating-image-and-voice-based-search-frontend/static/media/logo.f93bf7fffc7a8d67fdbd.png",
+    "index.html": "/suryaprakash934555-cyber/integrating-image-and-voice-based-search-frontend/index.html",
+    "main.0c6e9ca0.css.map": "/suryaprakash934555-cyber/integrating-image-and-voice-based-search-frontend/static/css/main.0c6e9ca0.css.map",
+    "main.2a58198e.js.map": "/suryaprakash934555-cyber/integrating-image-and-voice-based-search-frontend/static/js/main.2a58198e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c6e9ca0.css",
+    "static/js/main.2a58198e.js"
+  ]
+}
