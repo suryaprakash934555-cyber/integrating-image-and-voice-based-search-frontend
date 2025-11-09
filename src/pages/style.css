@@ -530,3 +530,30 @@
   border-color: #007bff;
   background-color: #f8f9fa;
 }
+/* Makes carousel image responsive on mobile */
+.carousel-img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
+
+/* Optional: Reduce carousel height on small devices */
+@media (max-width: 768px) {
+  .carousel-img {
+    width: 50%;
+    max-height: 250px;
+    object-fit: contain;
+  }
+
+  .font {
+    font-size: 1.8rem;
+  }
+
+  .text-info {
+    font-size: 0.95rem;
+  }
+
+  .main-container {
+    padding: 0 10px;
+  }
+}

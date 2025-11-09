@@ -70,5 +70,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
-# integrating-image-and-voice-based-search-frontend
->>>>>>> c084e815a7a9f91b7ae87d9b75fb9ea668bd348a
+# Integrating-Image-and-voice-based-search-in-ecommerce-website
+Team-collaboration
+>>>>>>> d93018142435581330db37bcedbaa6e452586929
